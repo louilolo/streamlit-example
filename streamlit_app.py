@@ -2,7 +2,7 @@ import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
-import modelo antigo/best.pt
+import 'modelo antigo/best.pt'
 """
 # Welcome to Streamlit!
 
