@@ -2,7 +2,7 @@ import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
-from ultralytics import YOLO
+import modelo antigo/best.pt
 """
 # Welcome to Streamlit!
 
